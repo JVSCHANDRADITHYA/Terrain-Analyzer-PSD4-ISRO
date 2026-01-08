@@ -1,4 +1,5 @@
 # Crater-Boulder-Detection
+ This project was archived and is no longer actively maintained. Public access is provided for reference purposes only [from December 2025].
 
 ## Overview
 This project implements an automated **crater and boulder detection pipeline** for high-resolution **lunar surface imagery**. It is designed to analyze large remote-sensing datasets and extract geological features relevant to **landing site evaluation, hazard analysis, and surface characterization**.
