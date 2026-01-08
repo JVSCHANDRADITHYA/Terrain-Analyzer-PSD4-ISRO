@@ -1,5 +1,7 @@
-# Crater-Boulder-Detection
- This project was archived and is no longer actively maintained. Public access is provided for reference purposes only [from December 2025].
+# Terrain Analysis for PSD4 Lunar Surface Imagery of Chandrayaan-2 Mission
+ Note : This project was archived and is no longer actively maintained. Public access is provided for reference purposes only [from December 2025]. 
+
+ Refer to the Submission Report for more details - [Submission Report](submission.pptx)
 
 ## Overview
 This project implements an automated **crater and boulder detection pipeline** for high-resolution **lunar surface imagery**. It is designed to analyze large remote-sensing datasets and extract geological features relevant to **landing site evaluation, hazard analysis, and surface characterization**.
